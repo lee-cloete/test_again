@@ -1,0 +1,23 @@
+# Composer dependencies
+/vendor/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and cache files
+*.log
+*.cache
+
+# Build and distribution files
+/dist/
+/build/
+
+# Other generated files
+.phpunit.result.cache
